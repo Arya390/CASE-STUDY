@@ -1,27 +1,27 @@
 body
 {
     font-family: 'Special Elite', cursive;
-    background: whitesmoke;
+    background: rgb(58,180,94);
+background: linear-gradient(90deg, rgba(58,180,94,1) 0%, rgba(237,253,29,0.9925012241224614) 50%, rgba(69,227,252,1) 100%);
 }
-.header_div
+.header_div 
 {
-    background:whitesmoke;
-    color:grey;
+    background: grey;
+    color:whitesmoke;
 }
 .header_div img
 {
     width:100px
 }
-.div
+.text_images_and_result div
 {
     background:ivory;
     padding:50px;
     margin-top:15px;
-    border:3px solid grey;
-    width:50px;
-    height:30px;
+    border:3px solid rgb(25, 245, 17);
+    width: 60%;
 }
-.label
+.text_images_and_result label
 {
     background:whitesmoke;
     width:310px;
@@ -29,8 +29,14 @@ body
     margin-bottom:0px;
     box-shadow: 5px 5px 18px whitesmoke;
 }
-.image
+.text_images_and_result
 {
-    width: 50px;
-    height:30px;
+    border: groove(grey);
+    background: rgb(58,180,94);
+    width:600px;
+}
+.text_images_and_result img
+{
+    width:500px;
+    height: 490px;
 }
