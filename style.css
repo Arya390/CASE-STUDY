@@ -40,3 +40,9 @@ background: linear-gradient(90deg, rgba(58,180,94,1) 0%, rgba(237,253,29,0.99250
     width:500px;
     height: 490px;
 }
+
+div
+{
+    background-color: pink;
+
+}
